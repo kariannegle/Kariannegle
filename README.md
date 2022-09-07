@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Karianne ✨
+
+I am a 19 year old girl who is currently taking a bachelor in Applied Computerscience at Oslomet i Oslo.
+
+I'm currently trying to learn UX and UI design on my own.
+
+
+**Fun Facts about me**
+
+- I love dogs but i am allergic to them
+- I enjoy watching asian dramas, esepecially Korean and Thai ones.
+- I am half thai and half norwegian.
