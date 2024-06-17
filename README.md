@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Karianne ✨
 
-I am a 19 year old girl who is currently taking a bachelor in Applied Computerscience at Oslomet i Oslo.
+I am a 21 year old girl who is currently taking a bachelor in Applied Computerscience at Oslomet i Oslo.
 
 I'm currently trying to learn UX and UI design on my own.
 
