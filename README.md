@@ -1,29 +1,10 @@
-### Hi there 👋
+### Hi!
+#### I'm Karianne ✨
 
-<!--
-**kariannegle/kariannegle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 21-year-old student at Oslomet | 🎓 Final year of a Bachelor’s in Applied Computer Technology | 💻 Working in IT Service Desk, developing skills in IT support and problem-solving | 🎀 Passionate about technology, programming, UX/UI and accesibility 
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80" height="80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on this page and will add my projects soon
 
-My name is Karianne ✨
-
-I am a 21 year old girl who is currently taking a bachelor in Applied Computerscience at Oslomet i Oslo.
-
-I'm currently trying to learn UX and UI design on my own.
-
-
-**Fun Facts about me**
-
-- I love dogs but i am allergic to them
-- I enjoy watching asian dramas, esepecially Korean and Thai ones.
-- I am half thai and half norwegian.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karianne-glent-460114250/)  
