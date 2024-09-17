@@ -5,6 +5,23 @@
 
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80" height="80" />
 
+
 I'm currently working on this page and will add my projects soon
+
+#### Final Projects
+
+| Course | Description |
+| --- | --- |
+| [DATA1200 Webutvikling](https://github.com/kariannegle/Eksamen) | List all new or modified files |
+| Course| Description |
+| Course | Description |
+| Course | Description |
+| Course | Description |
+| Course | Description |
+| Course | Description |
+
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karianne-glent-460114250/)  
