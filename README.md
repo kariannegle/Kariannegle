@@ -17,7 +17,7 @@ I'm currently working on this page and will add my projects soon
 | [DATA1500 Databaser](https://github.com/kariannegle/Databaser) | relasjonsdatabaser, SQL, datamodellering|
 | [DATA1700 Webprogramering](https://github.com/kariannegle/Webprogramering) | Java Spring Boot, Javascript, SQL, Apache Tomcat og Maven |
 | [ITPE3200 Webapplikasjoner](https://github.com/kariannegle/MyShop) | .NET, React, CRUD application |
-| [DAVE3625 Introduksjon til Kunstig Inteligens](https://github.com/kariannegle/IntroduksjonKI) | Python|
+| [DAVE3625 Introduksjon til Kunstig Inteligens](https://github.com/kariannegle/IntroduksjonKI) | Python, Machine Learning |
 
 #### Egne prosjekter
 | Course | Description |
