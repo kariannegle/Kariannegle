@@ -16,7 +16,7 @@ I'm currently working on this page and will add my projects soon
 | [DAPE1400 Programmering](https://github.com/kariannegle/DAPE1400Programering)| Programmering i Java |
 | [DATA1500 Databaser](https://github.com/kariannegle/Databaser) | relasjonsdatabaser, SQL, datamodellering|
 | [DATA1700 Webprogramering](https://github.com/kariannegle/Webprogramering) | Java Spring Boot, Javascript, SQL, Apache Tomcat og Maven |
-| [ITPE3200 Webapplikasjoner](https://github.com/kariannegle/MyShop) | .NET, React, CRUD application |
+| [ITPE3200 Webapplikasjoner](https://github.com/kariannegle/MyShop) [Eksamensoppgave](https://github.com/cornelianna/NoteApp)| .NET, React, CRUD application |
 | [DAVE3625 Introduksjon til Kunstig Inteligens](https://github.com/kariannegle/IntroduksjonKI) | Python, Machine Learning |
 
 #### Egne prosjekter
