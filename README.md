@@ -23,7 +23,7 @@ I'm currently working on this page and will add my projects soon
 | Course | Description |
 | --- | --- |
 | [Hello Kitty 2D Game](https://github.com/kariannegle/Game2D)| Small Java game, explore a little world as Hello Kitty |
-| [My React Portofolio]| Portofolio in React |
+| []|  |
 | []|  |
 | []|  |
 
